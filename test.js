@@ -1,5 +1,5 @@
 let output = document.getElementById("output");
-output.innerHTML= "แค่กดชีวิตก็เปลี่ยน";
+output.innerHTML= ">>>แค่กดชีวิตก็เปลี่ยน<<<";
 
 
 function my() {
